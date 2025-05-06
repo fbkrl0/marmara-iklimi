@@ -155,7 +155,6 @@
     <div class="image-container">
       <img src="marmara_bitki1.jpg" alt="Marmara Üzüm Bağları">
       <img src="marmara_bitki2.jpg" alt="Marmara Zeytinlikleri">
-      <img src="marmara_bitki3.jpg" alt="Marmara Kestane Ormanı">
     </div>
   </section>
 
@@ -168,7 +167,6 @@
     <div class="image-container">
       <img src="marmara_hayvan1.jpg" alt="Marmara Yaban Domuzu">
       <img src="marmara_hayvan2.jpg" alt="Marmara Martıları">
-      <img src="marmara_hayvan3.jpg" alt="Marmara Yunusları">
     </div>
   </section>
 
